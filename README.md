@@ -66,9 +66,30 @@ You can test the API using the Postman collection available at the following URL
 
 ## Swagger Documentation
 
-Below is a screenshot of the Swagger documentation for the API:
+#Below is a screenshot of the Swagger documentation for the API:
 
 ![image](https://github.com/user-attachments/assets/439dcd31-313d-45ab-a208-3629b73a29e9)
+
+#GET -> All todo items 
+
+![image](https://github.com/user-attachments/assets/50459de7-5d32-4421-aaac-79cb7931bd21)
+
+#POST -> Creat new todo item
+
+![image](https://github.com/user-attachments/assets/c53cd300-8dd6-4345-907c-679fd9a599ae)
+
+#DELETE -> Clear all todo items
+
+![image](https://github.com/user-attachments/assets/842fe541-5b84-4eb3-8b9d-cbb2ec8ad3ea)
+
+#GET -> Get a specific todo item by ID
+
+![image](https://github.com/user-attachments/assets/30f03dbd-8d4c-4dc7-993b-aae1bc07335f)
+
+#PUT -> Update a specific todo item by ID
+
+![image](https://github.com/user-attachments/assets/1b528059-6a84-4490-b067-8ddfaf963e98)
+
 
 ## Usage
 
