@@ -68,7 +68,7 @@ You can test the API using the Postman collection available at the following URL
 
 Below is a screenshot of the Swagger documentation for the API:
 
-![Swagger Documentation](![image](https://github.com/user-attachments/assets/439dcd31-313d-45ab-a208-3629b73a29e9)
+(![image](https://github.com/user-attachments/assets/439dcd31-313d-45ab-a208-3629b73a29e9))
 
 ## Usage
 
