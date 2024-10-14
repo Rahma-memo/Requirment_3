@@ -64,6 +64,13 @@ You can test the API using the Postman collection available at the following URL
 
 [Postman Collection URL](<https://elements.getpostman.com/redirect?entityId=38975819-b8f41551-2508-4fbd-ab04-f78f66df6594&entityType=collection>)
 
+## Swagger Documentation
+
+Below is a screenshot of the Swagger documentation for the API:
+
+![Swagger Documentation](![image](https://github.com/user-attachments/assets/439dcd31-313d-45ab-a208-3629b73a29e9)
+)
+
 ## Usage
 
 ### **Authentication Middleware:**
